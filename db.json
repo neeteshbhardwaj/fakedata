@@ -1,68 +1,40 @@
-[
-  {
-    "userId": 1,
-    "id": 1,
-    "title": "Mukesh Khanna Announces Shaktimaan Trilogy",
-    "body": "It's time to tell the world that Shaktimaan  is being reincarnated. Yes, friends of Shaktimaan, I am now officially stating that I am bringing Shaktimaan 2 soon - wrote Mukesh Khanna"
-  },
-   {
-    "userId": 1,
-    "id": 2,
-    "title": "IPL 2020, CSK vs SRH: MS Dhoni Says We Are Making Same Mistakes Again After Loss To SunRisers Hyderabad",
-    "body": "IPL 2020, CSK vs SRH: MS Dhoni admitted that his side needed to get a lot of things right, having been guilty of repeating the same mistakes after a close defeat against SRH."
-  },
-   {
-    "userId": 1,
-    "id": 3,
-    "title": "Mobile Battery: Best Smartphones With Long Battery Life [October 2020]",
-    "body": "These are some of the smartphones that offer the best battery life, across budgets"
-  },
-   {
-    "userId": 1,
-    "id": 4,
-    "title": "Modern Family Star Sofia Vergara Tops Forbes List Of Highest Paid Actresses",
-    "body": "According to Forbes, with production of big Hollywood projects shut because of the pandemic, most of the actresses made it to the list owing to their collaborations with television and streaming platforms."
-  },
-   {
-    "userId": 1,
-    "id": 5,
-    "title": "",
-    "body": ""
-  },
-   {
-    "userId": 1,
-    "id": 1,
-    "title": "",
-    "body": ""
-  },
-   {
-    "userId": 1,
-    "id": 1,
-    "title": "",
-    "body": ""
-  },
-   {
-    "userId": 1,
-    "id": 1,
-    "title": "",
-    "body": ""
-  },
-   {
-    "userId": 1,
-    "id": 1,
-    "title": "",
-    "body": ""
-  },
-   {
-    "userId": 1,
-    "id": 1,
-    "title": "",
-    "body": ""
-  },
-   {
-    "userId": 1,
-    "id": 1,
-    "title": "",
-    "body": ""
-  }
-]
+{
+  "posts": [
+	  {
+		"userId": 1,
+		"id": 1,
+		"title": "Mukesh Khanna Announces Shaktimaan Trilogy",
+		"body": "It's time to tell the world that Shaktimaan  is being reincarnated. Yes, friends of Shaktimaan, I am now officially stating that I am bringing Shaktimaan 2 soon - wrote Mukesh Khanna"
+	  },
+	   {
+		"userId": 1,
+		"id": 2,
+		"title": "IPL 2020, CSK vs SRH: MS Dhoni Says We Are Making Same Mistakes Again After Loss To SunRisers Hyderabad",
+		"body": "IPL 2020, CSK vs SRH: MS Dhoni admitted that his side needed to get a lot of things right, having been guilty of repeating the same mistakes after a close defeat against SRH."
+	  },
+	   {
+		"userId": 1,
+		"id": 3,
+		"title": "Mobile Battery: Best Smartphones With Long Battery Life [October 2020]",
+		"body": "These are some of the smartphones that offer the best battery life, across budgets"
+	  },
+	   {
+		"userId": 1,
+		"id": 4,
+		"title": "Modern Family Star Sofia Vergara Tops Forbes List Of Highest Paid Actresses",
+		"body": "According to Forbes, with production of big Hollywood projects shut because of the pandemic, most of the actresses made it to the list owing to their collaborations with television and streaming platforms."
+	  },
+	   {
+		"userId": 1,
+		"id": 5,
+		"title": "Sony WH-1000XM4 Wireless Active Noise Cancelling Headphones Review",
+		"body": "Is this the best pair of wireless noise cancelling headphones you can buy today?"
+	  },
+	   {
+		"userId": 1,
+		"id": 6,
+		"title": "Realme Narzo 20 Pro First Impressions",
+		"body": "The Realme Narzo 20 Pro comes with a 65W SuperDart charger in the box"
+	  }
+	]
+}
